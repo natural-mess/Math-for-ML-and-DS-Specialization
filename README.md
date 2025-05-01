@@ -27,8 +27,18 @@ In this final week, you will take a deeper look at determinants. You will learn 
 
 ## [Course 2: Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science)
 
+- Analytically optimize different types of functions commonly used in machine learning using properties of derivatives and gradients 
+- Approximately optimize different types of functions commonly used in machine learning
+- Visually interpret differentiation of different types of functions commonly used in machine learning
+- Perform gradient descent in neural networks with different activation and cost functions
+
 *Comming soon*
 
 ## [Course 3: Probability & Statistics for Machine Learning & Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science)
+
+- Describe and quantify the uncertainty inherent in predictions made by machine learning models
+- Visually and intuitively understand the properties of commonly used probability distributions in machine learning and data science
+- Apply common statistical methods like maximum likelihood estimation (MLE) and maximum a priori estimation (MAP) to machine learning problems
+- Assess the performance of machine learning models using interval estimates and margin of errors 
 
 *Comming soon*
