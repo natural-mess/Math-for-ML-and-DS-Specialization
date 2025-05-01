@@ -22,7 +22,7 @@ In this week, you will learn how to solve a system of linear equations using the
 ### [Week 3: Vectors and Linear Transformations](Course1-Linear-Algebra/Week3/)
 An individual instance (observation) of data is typically represented as a vector in machine learning. In this week, you will learn about properties and operations of vectors. You will also learn about linear transformations, matrix inverse, and one of the most important operations on matrices: the matrix multiplication. You will see how matrix multiplication naturally arises from composition of linear transformations. Finally, you will learn how to apply some of the properties of matrices and vectors that you have learned so far to neural networks.
 
-### [Week 3: Determinants and Eigenvectors](Course1-Linear-Algebra/Week4/)
+### [Week 4: Determinants and Eigenvectors](Course1-Linear-Algebra/Week4/)
 In this final week, you will take a deeper look at determinants. You will learn how determinants can be geometrically interpreted as an area and how to calculate determinant of product and inverse of matrices. We conclude this course with eigenvalues and eigenvectors. Eigenvectors are used in dimensionality reduction in machine learning. You will see how eigenvectors naturally follow from the concept of eigenbases.
 
 ## [Course 2: Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science)
