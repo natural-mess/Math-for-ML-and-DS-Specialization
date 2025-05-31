@@ -32,7 +32,11 @@ In this final week, you will take a deeper look at determinants. You will learn 
 - Visually interpret differentiation of different types of functions commonly used in machine learning
 - Perform gradient descent in neural networks with different activation and cost functions
 
-*Comming soon*
+### [Week 1: Derivatives and Optimization](Course2-Calculus/Week1/)
+
+### [Week 2: Gradients and Gradient Descent](Course2-Calculus/Week2/)
+
+### [Week 3: Optimization in Neural Networks and Newton's Method](Course2-Calculus/Week3/)
 
 ## [Course 3: Probability & Statistics for Machine Learning & Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science)
 
