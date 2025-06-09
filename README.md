@@ -45,4 +45,5 @@ In this final week, you will take a deeper look at determinants. You will learn 
 - Apply common statistical methods like maximum likelihood estimation (MLE) and maximum a priori estimation (MAP) to machine learning problems
 - Assess the performance of machine learning models using interval estimates and margin of errors 
 
-*Comming soon*
+### [Week 1: Introduction to Probability and Probability Distributions](Course3-Probability-Statistics/Week1/)
+In this week, you will learn about probability of events and various rules of probability to correctly do arithmetic with probabilities. You will learn the concept of conditional probability and the key idea behind Bayes theorem. In lesson 2, we generalize the concept of probability of events to probability distribution over random variables. You will learn about some common probability distributions like the Binomial distribution and the Normal distribution.
