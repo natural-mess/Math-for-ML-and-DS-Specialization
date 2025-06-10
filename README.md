@@ -1,4 +1,4 @@
-# [Mathematics-for-Machine-Learning-and-Data-Science-Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+# [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
 Fundamental mathematics toolkit of machine learning: calculus, linear algebra, statistics, and probability.
 
 Mathematics for Machine Learning and Data Science is a foundational online program created by DeepLearning.AI and taught by Luis Serrano. In machine learning, you apply math concepts through programming. And so, in this specialization, you’ll apply the math concepts you learn using Python programming in hands-on lab exercises. As a learner in this program, you'll need basic to intermediate Python programming skills to be successful.
